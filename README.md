@@ -30,3 +30,13 @@ Ensure you have Python 3.x installed on your machine. You can download it from [
 pip install pandas numpy scikit-learn
 ```
 
+## How to Use
+
+1. Clone this repository.
+2. Download the dataset from the provided.
+
+## Author
+U.Aravindhakumar
+## Contect
+1. Gmail : msdaravind92@gmail.com
+2. Phone : 91+ 9360379653

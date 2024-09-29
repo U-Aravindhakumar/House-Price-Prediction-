@@ -2,7 +2,7 @@
 
 ## Overview
 
-The House Price Prediction project is designed to forecast property prices based on various features, including the size of the house, the number of bedrooms, the location, and the age of the property. Utilizing a linear regression model, this application provides a reliable estimation of house prices, making it a valuable tool for potential homebuyers and real estate professionals.
+The House Price Prediction project is designed to forecast property prices based on various features, including the size of the house, the number of bedrooms, the location, and the age of the property. Utilizing a **linear regression model**, this application provides a reliable estimation of house prices, making it a valuable tool for potential homebuyers and real estate professionals.
 
 ## Features
 
